@@ -1,16 +1,21 @@
 # alubank
 
-A new Flutter project.
+Curso de Flutter na Alura: estilizando e reproduzindo layouts
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/112991755/231090884-9f6d9b81-22b1-4ea7-bac0-ee362a5730bd.png)
 
-This project is a starting point for a Flutter application.
+## Ferramentas utilizadas:
 
-A few resources to get you started if this is your first Flutter project:
+Customização de Widgets para criar Cards, cabeçalho com gradiente de cores, botões com títulos, e mais
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Personalização do layout com os Widgets Text.Rich, Inkwell e mais
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Organização e automação de cores através dos Themes
+
+Componentes e seções
+
+## Feito por:
+
+### Rodrigo Ramgund
+
+### Linkedin: https://www.linkedin.com/in/rodrigo-leite-098035117/
